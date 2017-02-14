@@ -33,6 +33,8 @@ public class Controller {
             } else {
                 loginlabel.setText("Login Failed! Try again Later!");
             }
+            
+            System.out.println("HELLO MELO");
     }
 }
 
